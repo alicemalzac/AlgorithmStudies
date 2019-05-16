@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448837807 source:c:\users\alice malzac\documents\unifor\2015.2\algoritmos\trabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
