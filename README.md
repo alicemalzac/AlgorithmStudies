@@ -1,12 +1,12 @@
-# Algoritmo
+# Algorithm
 
 
-## Sobre o repositório
+## About the repository
 
-Estudo sobre estrutura de dados na cadeira de algoritmo, ministrada no ano de 2015, na Universidade de Fortaleza.
+Study on data structure in the algorithm course in 2015, at the University of Fortaleza.
 
-## Linguagem
+## Language
 
-Foi desenvolvido em C.
+It was developed in C.
 
 
