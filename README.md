@@ -3,7 +3,7 @@
 
 ## About the repository
 
-Study on data structure in the algorithm course in 2015, at the University of Fortaleza.
+Study on data structure at my algorithm course in 2015, at the University of Fortaleza.
 
 ## Language
 
